@@ -1,0 +1,9 @@
+export { default as Onboarding } from './Onboarding';
+export { default as Home } from './Home';
+export { default as Category } from './Category';
+export { default as Course } from './Course';
+export { default as Player } from './Player';
+export { default as VoiceLesson } from './VoiceLesson';
+export { default as Assessment } from './Assessment';
+export { default as TeacherUpload } from './TeacherUpload';
+export { default as Jobs } from './Jobs';
